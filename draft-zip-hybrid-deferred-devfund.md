@@ -145,21 +145,6 @@ accommodate the disbursement mechanism defined in a future ZIP. This ensures
 that the system can evolve based on feedback and new developments in the Zcash
 ecosystem.
 
-**Non-Direct Funding Model**: This ZIP recognizes there is strong community
-support for a non-direct funding model.  As such, ECC and ZF MUST collaborate
-with the Zcash community to research and explore the establishment of a
-non-direct funding model. The research should consider potential designs as
-well as possible legal and regulatory risks.
-
-**ZCG Slice**: The ZCG slice should encourage decentralization and support
-independent teams dedicated to Zcash. Major funding decisions should be based,
-to the extent feasible, on inputs from domain experts and pertinent
-stakeholders.
-
-**Value of ZEC**: In case the value of ZEC jumps, ZCG should not wastefully use
-excessive amounts of funds. Conversely, given market volatility and eventual
-halvings, it is desirable to create rainy-day reserves.
-
 **Funding Stream**: The ZCG funding stream should conform to the standards of
 ZIP 207 and ZIP 214.
 
@@ -316,6 +301,14 @@ obligations defined below.
 FPF SHALL strive to define target metrics and key performance indicators,
 and the ZCG Committee SHOULD utilize these in its funding decisions.
 
+### Process
+
+**Non-Direct Funding Model**: This ZIP recognizes there is strong community support for a non-direct funding model.  As such, ECC and ZF MUST collaborate with the Zcash community to research and explore the establishment of a non-direct funding model. The research should consider potential designs as well as possible legal and regulatory risks.
+
+**ZCG Slice**: The ZCG slice should encourage decentralization and support independent teams dedicated to Zcash. Major funding decisions should be based, to the extent feasible, on inputs from domain experts and pertinent stakeholders.
+
+**Value of ZEC**: In case the value of ZEC jumps, ZCG should not wastefully use excessive amounts of funds. Conversely, given market volatility and eventual halvings, it is desirable to create rainy-day reserves.
+
 **Direct Grant Option**
 
 It may be deemed better, operationally or legally, if ZCG funds are not
@@ -350,7 +343,7 @@ States.
 
 **Transparency and Accountability**
 
-FPF MUST accept the following obligations in this section on behalf of ZCG:
+FPF accept the following obligations in this section on behalf of ZCG:
 * Publication of the ZCG Dashboard, providing a snapshot of ZCG’s current
   financials and any disbursements made to grantees.
 * Bi-weekly meeting minutes documenting the decisions made by the ZCG committee
