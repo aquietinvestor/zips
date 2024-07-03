@@ -301,14 +301,6 @@ obligations defined below.
 FPF SHALL strive to define target metrics and key performance indicators,
 and the ZCG Committee SHOULD utilize these in its funding decisions.
 
-### Process
-
-**Non-Direct Funding Model**: This ZIP recognizes there is strong community support for a non-direct funding model.  As such, ECC and ZF MUST collaborate with the Zcash community to research and explore the establishment of a non-direct funding model. The research should consider potential designs as well as possible legal and regulatory risks.
-
-**ZCG Slice**: The ZCG slice should encourage decentralization and support independent teams dedicated to Zcash. Major funding decisions should be based, to the extent feasible, on inputs from domain experts and pertinent stakeholders.
-
-**Value of ZEC**: In case the value of ZEC jumps, ZCG should not wastefully use excessive amounts of funds. Conversely, given market volatility and eventual halvings, it is desirable to create rainy-day reserves.
-
 **Direct Grant Option**
 
 It may be deemed better, operationally or legally, if ZCG funds are not
@@ -369,6 +361,13 @@ promptly remedied, will result in a modified version of Zcash node software
 that removes ZCG’s Dev Fund slice and allocates it to the Deferred Dev Fund
 lockbox.
 
+### Process
+
+**Non-Direct Funding Model**: This ZIP recognizes there is strong community support for a non-direct funding model. As such, ECC and ZF MUST collaborate with the Zcash community to research and explore the establishment of a non-direct funding model. The research should consider potential designs as well as possible legal and regulatory risks.
+
+**ZCG Slice**: The ZCG slice should encourage decentralization and support independent teams dedicated to Zcash. Major funding decisions should be based, to the extent feasible, on inputs from domain experts and pertinent stakeholders.
+
+**Value of ZEC**: In case the value of ZEC jumps, ZCG should not wastefully use excessive amounts of funds. Conversely, given market volatility and eventual halvings, it is desirable to create rainy-day reserves.
 
 ## References
 
